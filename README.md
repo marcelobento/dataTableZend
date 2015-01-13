@@ -26,3 +26,6 @@ Mapear o nome do indice que vem do json, e o nome que é adicionado vai ver o no
 
 # Action
 Verificar a action que está no exemplo.
+
+#OBS
+A versão da DataTable é 1.9.4
